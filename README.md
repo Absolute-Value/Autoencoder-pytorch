@@ -1,3 +1,5 @@
+# 全畳み込みAutoencoderをPytorchで実装したものです
+
 # ファイルとフォルダの説明
 
 ## modules/
